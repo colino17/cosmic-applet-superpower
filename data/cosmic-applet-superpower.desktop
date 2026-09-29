@@ -1,0 +1,13 @@
+[Desktop Entry]
+Name=Superpower
+Comment=Asus superpowered battery applet for Cosmic
+Type=Application
+Exec=cosmic-applet-superpower
+Terminal=false
+Categories=COSMIC;
+Keywords=Cosmic;Iced;
+Icon=cosmic-applet-battery-level-100-symbolic
+StartupNotify=true
+NoDisplay=true
+X-CosmicApplet=true
+X-CosmicHoverPopup=Auto
